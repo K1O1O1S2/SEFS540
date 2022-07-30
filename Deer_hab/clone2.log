@@ -5886,3 +5886,1970 @@ Presolve time = 0.27 sec. (30.00 ticks)
 
 Dual simplex solved model.
 
+
+Log for '' Clone_2 (V22.1.0.0) Sat Jul 23 20:09:46 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 20:11:25 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 20:35:31 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.17 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 20:36:29 2022
+
+
+Log for '' Clone_2 (V22.1.0.0) Sat Jul 23 21:05:52 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 21:07:31 2022
+
+
+Log for '' Clone_2 (V22.1.0.0) Sat Jul 23 21:25:22 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 21:40:01 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.33 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 21:39:59 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 21:45:18 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 21:50:48 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.38 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 22:11:19 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (30.33 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 22:12:16 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 22:12:21 2022
+
+Advanced basis not built.
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 22:37:24 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.22 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 22:38:09 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 1.48 sec. (54.14 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 22:39:53 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 22:40:06 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.27 sec. (30.32 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 22:40:22 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 22:41:05 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 23:04:20 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.22 sec. (30.33 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 23:05:56 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 23:31:15 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.31 sec. (54.14 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 23:31:53 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 23:31:57 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.20 sec. (30.32 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 23:33:16 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 23:44:42 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.42 sec. (30.33 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 23:50:18 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sat Jul 23 23:58:51 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.75 sec. (30.33 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 00:01:51 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 00:12:05 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.45 sec. (54.13 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 00:14:30 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 00:26:34 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 1.31 sec. (54.13 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 00:29:36 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 00:39:01 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.39 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 00:40:31 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 00:54:08 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.11 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 00:54:50 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 01:06:24 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.27 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 01:08:47 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 01:37:12 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.31 sec. (54.13 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 01:37:31 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.11 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 01:38:14 2022
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 01:40:08 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 01:40:29 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 01:58:50 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.39 sec. (54.13 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 02:00:24 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 02:00:56 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 02:14:39 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68381 rows and 39857 columns.
+All rows and columns eliminated.
+Presolve time = 0.28 sec. (30.33 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 02:19:00 2022
+
+Presolve time = 0.22 sec. (14.57 ticks)
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 02:21:37 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 02:24:34 2022
+
+Advanced basis not built.
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 02:45:39 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.06 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 02:49:05 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 03:12:25 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.17 sec. (30.33 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 03:15:20 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 03:39:15 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.25 sec. (54.14 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 03:39:32 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.16 sec. (30.32 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 03:39:44 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.17 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 03:40:50 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 04:06:34 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.30 sec. (54.13 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 04:06:47 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.14 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 04:06:54 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.16 sec. (30.62 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 04:07:04 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.34 sec. (54.41 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 04:32:19 2022
+
+Advanced basis not built.
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 04:42:25 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.17 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 04:49:26 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 04:54:11 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.24 sec. (30.33 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 04:56:03 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:06:10 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.08 sec. (54.14 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:06:28 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:07:12 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.16 sec. (30.32 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:07:32 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.23 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:10:33 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:19:26 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.52 sec. (54.13 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:19:42 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.14 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:19:51 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.36 sec. (30.62 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:20:04 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.25 sec. (54.41 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 05:25:25 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:25:48 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:29:20 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68327 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.14 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 05:34:53 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:35:16 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:39:35 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68327 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.31 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:40:27 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:44:58 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68328 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.08 sec. (29.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:48:27 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:50:07 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136656 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.14 sec. (52.99 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:50:12 2022
+
+Dual infeasible due to empty column 'Vharv_1'.
+Presolve time = 0.03 sec. (5.97 ticks)
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:50:16 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68327 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (29.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:50:22 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68328 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:50:31 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136656 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.06 sec. (52.97 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:50:40 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68327 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:50:46 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68328 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (30.04 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:50:54 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136656 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.09 sec. (53.26 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 05:54:27 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:55:08 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 05:58:17 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.11 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:00:14 2022
+
+Advanced basis not built.
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:02:36 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.47 sec. (30.33 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 06:03:04 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:05:16 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:05:22 2022
+
+Using steepest-edge.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =          3181.000000
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:07:26 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 1.53 sec. (54.14 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:08:11 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:09:44 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.38 sec. (30.33 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:10:23 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:10:29 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68328 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (29.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:14:28 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.36 sec. (30.33 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:15:47 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136656 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 1.25 sec. (52.99 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:16:17 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68327 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.23 sec. (29.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:16:34 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68328 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.28 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:17:00 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:17:23 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136656 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 1.38 sec. (52.97 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:18:39 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68327 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.24 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:19:20 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.34 sec. (54.13 ticks)
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:19:22 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68328 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.31 sec. (30.04 ticks)
+
+Dual simplex solved model.
+
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:20:20 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:20:22 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:23:48 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.38 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:24:39 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68379 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.22 sec. (30.34 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 06:24:41 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:25:10 2022
+
+Advanced basis not built.
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:28:35 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68380 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.25 sec. (30.35 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:29:48 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:33:08 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136760 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.66 sec. (54.14 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 06:38:42 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:40:14 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:42:33 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68327 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.08 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:43:02 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68328 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.09 sec. (29.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:45:15 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:47:22 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136656 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.27 sec. (52.99 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:47:34 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68327 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.13 sec. (29.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:47:42 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68328 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.19 sec. (29.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:47:53 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136656 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.34 sec. (52.97 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:48:09 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68327 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.16 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:48:22 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68328 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.17 sec. (29.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:48:37 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136656 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.59 sec. (52.98 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 06:53:23 2022
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 06:54:38 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:54:52 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68329 rows and 39857 columns.
+All rows and columns eliminated.
+Presolve time = 0.30 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 06:55:18 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:55:19 2022
+
+Using steepest-edge.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =          3181.000000
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:55:23 2022
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 06:55:32 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:55:34 2022
+
+Using steepest-edge.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =          3181.000000
+Iteration:  3939    Objective     =           260.000507
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 06:55:49 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:55:52 2022
+
+Using steepest-edge.
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 06:56:53 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:57:35 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68329 rows and 39857 columns.
+All rows and columns eliminated.
+Presolve time = 0.19 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 06:57:55 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:58:04 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68329 rows and 39857 columns.
+All rows and columns eliminated.
+Presolve time = 0.31 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:58:05 2022
+
+Using steepest-edge.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =          3181.000000
+Iteration:   795    Objective     =           431.000000
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 06:58:18 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:58:24 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68329 rows and 39857 columns.
+All rows and columns eliminated.
+Presolve time = 0.13 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 06:58:36 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:58:41 2022
+
+Using steepest-edge.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =          3181.000000
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:59:05 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68329 rows and 39857 columns.
+All rows and columns eliminated.
+Presolve time = 0.08 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 06:59:18 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 06:59:58 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68329 rows and 39857 columns.
+All rows and columns eliminated.
+Presolve time = 0.11 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 07:00:08 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:00:15 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68329 rows and 39857 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 07:00:22 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:00:26 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68329 rows and 39857 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 07:07:39 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:08:11 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:12:22 2022
+
+Using steepest-edge.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =          3181.000000
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:14:57 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:17:28 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68328 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.14 sec. (29.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:20:24 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:22:38 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136656 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.27 sec. (52.99 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:22:53 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68327 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.11 sec. (29.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:23:02 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68328 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.17 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:23:14 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136656 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.31 sec. (52.97 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:23:27 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68327 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.17 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:23:35 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68328 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.20 sec. (30.04 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:23:46 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 136656 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.28 sec. (53.26 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:27:51 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:31:25 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68327 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (29.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:35:17 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 07:35:37 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68328 rows and 39855 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (29.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 18:12:58 2022
+
+
+Log for 'C:\Users\ADMINI~1\AppData\Local\Temp\2\2a446d8420fd4542a4d205d9cc5a8b29-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:12:58 2022
+
+Using steepest-edge.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =          3181.000000
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:13:06 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68552 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (31.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:13:13 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68552 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (31.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:13:20 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68552 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (31.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:13:28 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68553 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (31.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:13:39 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 137106 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.09 sec. (56.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:13:49 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:13:50 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68552 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (31.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:13:58 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68553 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (31.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:14:12 2022
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 18:22:25 2022
+
+
+Log for 'C:\Users\ADMINI~1\AppData\Local\Temp\2\6efe52013964420fa66ea38c68f86910-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:22:25 2022
+
+Using steepest-edge.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =          3181.000000
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:22:32 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68552 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (31.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:22:40 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68552 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (31.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:22:47 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68552 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (31.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:22:55 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68553 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (31.76 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:23:06 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 137106 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.08 sec. (56.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:23:16 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:23:18 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68552 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (31.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:23:25 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68553 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (31.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:23:39 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:25:51 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 137106 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.38 sec. (56.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:26:38 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68552 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (31.77 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:26:45 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68553 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (32.05 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:26:55 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 137106 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.14 sec. (57.04 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:27:19 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:30:15 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68554 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.31 sec. (32.07 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 18:30:31 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:30:36 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:30:46 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68554 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (32.07 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 18:30:53 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:30:58 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:31:07 2022
+
+Using steepest-edge.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =          3181.000000
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 18:35:15 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 137106 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.33 sec. (56.75 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:09:18 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68554 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (32.07 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 22:09:25 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:09:26 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68554 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (32.07 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 22:09:34 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:09:34 2022
+
+Using steepest-edge.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =          3181.000000
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 22:23:19 2022
+
+
+Log for 'C:\Users\ADMINI~1\AppData\Local\Temp\2\e665fc77380a478e8b4d1ab76456373e-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:23:21 2022
+
+
+Log for 'C:\Users\ADMINI~1\AppData\Local\Temp\2\e665fc77380a478e8b4d1ab76456373e-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:23:34 2022
+
+Using steepest-edge.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =          3181.000000
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:24:08 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:25:21 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68552 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.00 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:25:30 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68552 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (34.00 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:33:53 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:34:51 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68578 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (34.29 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:36:48 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:37:54 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68578 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.29 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:38:04 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68578 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.29 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'C:\Users\ADMINI~1\AppData\Local\Temp\2\e02995898c4949cf87e150e8b36a1f56-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:38:21 2022
+
+
+Log for 'C:\Users\ADMINI~1\AppData\Local\Temp\2\e02995898c4949cf87e150e8b36a1f56-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:38:59 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68604 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.79 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:42:08 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:43:05 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68604 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.80 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:49:16 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:50:22 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68604 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (34.80 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:50:32 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68604 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.80 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Sun Jul 24 22:53:56 2022
+
+
+Log for 'C:\Users\ADMINI~1\AppData\Local\Temp\2\be6e51919c1d4b95877d22c0e02a862b-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:53:56 2022
+
+Using steepest-edge.
+
+Iteration log . . .
+Iteration:     1    Scaled infeas =          3181.000000
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:54:40 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:55:43 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68578 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.51 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:55:52 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68578 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.51 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 22:56:36 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 23:00:07 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68578 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.51 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 23:01:03 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 23:11:54 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68579 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.06 sec. (34.50 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 23:13:12 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 23:23:44 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 137158 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.09 sec. (62.25 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 23:23:55 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68578 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.50 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 23:24:02 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68579 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.51 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 23:24:14 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 137158 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.11 sec. (62.24 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 23:24:25 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68578 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.51 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 23:24:33 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68579 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.79 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Sun Jul 24 23:24:43 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 137158 rows and 39856 columns.
+All rows and columns eliminated.
+Presolve time = 0.08 sec. (62.52 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 01:43:21 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 01:53:52 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68580 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.06 sec. (34.82 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 01:55:11 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 02:05:59 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68580 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.09 sec. (34.82 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Mon Jul 25 02:06:44 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 02:06:58 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 02:18:07 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68580 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.06 sec. (34.82 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Mon Jul 25 02:47:48 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 02:48:51 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 02:59:46 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68580 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.08 sec. (34.82 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 03:01:07 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 03:11:53 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68580 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.09 sec. (34.82 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Mon Jul 25 03:12:39 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 03:12:53 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 03:24:01 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68580 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.20 sec. (34.82 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Mon Jul 25 03:54:10 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 03:55:07 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 03:56:07 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68580 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.82 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 03:57:21 2022
+
+Advanced basis not built.
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 03:58:14 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68580 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.05 sec. (34.82 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Mon Jul 25 03:58:59 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 03:59:17 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 04:00:20 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68580 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.03 sec. (34.82 ticks)
+
+Dual simplex solved model.
+
+
+Log for '' Clone_2 (V22.1.0.0) Mon Jul 25 04:00:35 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 04:01:34 2022
+
+
+Log for 'Max-pulp.lp' Clone_2 (V22.1.0.0) Mon Jul 25 04:12:33 2022
+
+Tried aggregator 1 time.
+LP Presolve eliminated 68580 rows and 39858 columns.
+All rows and columns eliminated.
+Presolve time = 0.06 sec. (34.82 ticks)
+
+Dual simplex solved model.
+
