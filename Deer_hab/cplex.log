@@ -7531,3 +7531,44 @@ Deterministic time = 0.00 ticks  (0.95 ticks/sec)
 
 CPLEX Error  1217: No solution exists.
 No file written.
+
+Log started (V22.1.0.0) Thu Aug  4 02:15:05 2022
+
+
+Problem 'C:\Users\ADMINI~1\AppData\Local\Temp\2\d4bd8d565c18466884104519d1175f02-pulp.lp' read.
+Read time = 0.14 sec. (9.51 ticks)
+Warning: no MIP start values read, no MIP start loaded.
+MIP start file 'C:\Users\ADMINI~1\AppData\Local\Temp\2\d4bd8d565c18466884104519d1175f02-pulp.mst' read.
+New value for indicator for advanced starting information: 1
+New value for level of the tuning display: 2
+New value for mixed integer optimality gap tolerance: 0.03
+New value for time limit in seconds: 420
+Version identifier: 22.1.0.0 | 2022-03-09 | 1a383f8ce
+CPXPARAM_Tune_Display                            2
+CPXPARAM_TimeLimit                               420
+CPXPARAM_MIP_Tolerances_MIPGap                   0.029999999999999999
+1 of 1 MIP starts provided solutions.
+MIP start 'm1' defined initial solution with objective 41.0001.
+Tried aggregator 2 times.
+MIP Presolve eliminated 39727 rows and 19714 columns.
+MIP Presolve modified 53975 coefficients.
+Aggregator did 355 substitutions.
+Reduced MIP has 30276 rows, 18525 columns, and 192132 nonzeros.
+Reduced MIP has 18523 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 1.09 sec. (749.17 ticks)
+Probing fixed 4703 vars, tightened 0 bounds.
+Probing changed sense of 2 constraints.
+Probing time = 0.44 sec. (75.93 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 8815 rows and 5346 columns.
+MIP Presolve modified 6027 coefficients.
+Reduced MIP has 21461 rows, 13179 columns, and 156994 nonzeros.
+Reduced MIP has 13177 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.30 sec. (185.84 ticks)
+Probing time = 0.05 sec. (7.56 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+Reduced MIP has 21461 rows, 13179 columns, and 156994 nonzeros.
+Reduced MIP has 13177 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.20 sec. (104.83 ticks)
+Probing time = 0.03 sec. (7.56 ticks)
